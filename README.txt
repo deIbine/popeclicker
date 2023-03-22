@@ -12,7 +12,7 @@ URL : https://github.com/deIbine/popeclicker
 
 (Pour récupérer les musiques (taille trop grande pour GitHub)) 
 
-https://drive.google.com/drive/folders/17nlvPMtoLbG4fA5iWYtB9q2BZDBv4FKm?usp=sharing
+https://drive.google.com/drive/folders/1v9AVAfvfGAELNymqcfVZEc4JILB9ifQX?usp=sharing
 
 TODO : 
 -	Une meilleure esthétique générale, que ce soit des ajouts d’effets sonores ou des meilleurs graphismes par exemple. 
